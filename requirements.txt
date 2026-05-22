@@ -1,0 +1,4 @@
+web3
+python-dotenv
+py-solc-x
+tkinter

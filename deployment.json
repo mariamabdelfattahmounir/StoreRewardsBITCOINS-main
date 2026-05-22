@@ -1,0 +1,11 @@
+{
+  "contractAddress": "0x658064a3BAd64F93460E34f6B5B0EA5DdE46C7d7",
+  "deployerAddress": "0x1982Cc1c444a1EfFc8DdD7a5FeAA25b2e650CdAe",
+  "transactionHash": "9b24bf59b208cbab4683ef7316b18d55377638a22d96c3ba2b3ef8194fa92a62",
+  "blockNumber": 1,
+  "gasUsed": 3859762,
+  "network": "custom",
+  "rpcUrl": "http://127.0.0.1:7545",
+  "chainId": 1337,
+  "timestamp": "2026-05-01T01:46:06.369185"
+}
